@@ -138,7 +138,7 @@ python examples/quickstart.py
 
 ## Companion Papers
 
-1. [Multi-Level Calibration in Hierarchical Bayesian Models](../hbm-calibration/) — calibration theory
+1. [Multi-Level Calibration in Hierarchical Bayesian Models]([https://github.com/linfanluntan/hbm-calibration]) — calibration theory
 2. [Multi-Axis HBM for Radiation Toxicity](link) — the specific clinical model architecture
 
 ## License
