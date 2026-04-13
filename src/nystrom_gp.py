@@ -70,6 +70,7 @@ class NystromGP:
 
         # Select landmarks
         self.Z_ = select_landmarks(X_train, M, self.landmark_method)
+        M = len(self.Z_)  # actual M may differ from requested (e.g., grid rounding)
 
         # Compute kernel blocks
         W = rbf_kernel(self.Z_, self.Z_, self.lengthscale, self.variance)

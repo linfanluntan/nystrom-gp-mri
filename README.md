@@ -5,7 +5,7 @@
 
 > **Theory, Implementation, and Empirical Validation**
 >
-> Department of Radiation Oncology, MD Anderson Cancer Center
+> Renjie He — Fuller Laboratory, Department of Radiation Oncology, MD Anderson Cancer Center
 
 ## Overview
 
